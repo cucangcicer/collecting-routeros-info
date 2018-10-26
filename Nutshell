@@ -1,0 +1,11 @@
+This program could work on multiple Ip Addresses as much as your input. Ensure your ip list, have same login(username and password)
+Ensure your api-ssl on your router service is enable, and has default port(or you could edit the script)
+Ensure you has librouteros and ssl(in some version included)
+This program is not perfect yet, there are need sone improvement. Have a nice code :D
+
+Rifki Hermawan
+MikroTik Consultant, MTCRE, MTCINE
+PLONTOS, SWiN
+facebook.com/cucangerz twitter @erdotha
+https://www.linkedin.com/in/rifki-hermawan-284024133
+cucangerz@gmail.com
